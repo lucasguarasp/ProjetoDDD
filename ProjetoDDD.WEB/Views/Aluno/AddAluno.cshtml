@@ -1,0 +1,25 @@
+@model ProjetoDDD.WEB.ViewModels.AlunoViewModels
+
+
+<form asp-action="AddAluno">
+  <div class="form-group">   
+    <input type="text" class="form-control" asp-for="Id" hidden> 
+  </div>
+
+  <div class="form-group">
+    <label>Nome: </label>
+    <input type="text" class="form-control" asp-for="Nome">
+  </div>
+
+  <div class="form-group">
+    <label>Email: </label>
+    <input type="text" class="form-control" asp-for="Email">
+  </div>  
+
+  <div class="form-group">
+    <label>Password:</label>
+    <input type="password" class="form-control" asp-for="Senha">
+  </div>
+
+  <button type="submit" class="btn btn-default">Submit</button>
+</form>

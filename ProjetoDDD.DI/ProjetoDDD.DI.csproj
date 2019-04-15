@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+   <ItemGroup>
+    <ProjectReference Include="..\ProjetoDDD.Domain\ProjetoDDD.Domain.csproj" />
+    <ProjectReference Include="..\ProjetoDDD.Data\ProjetoDDD.Data.csproj" />
+    <ProjectReference Include="Microsoft.EntityFrameworkCore" Version = "2.2.3" />
+    <ProjectReference Include="Microsoft.Extensions.Configuration" Version = "2.2.0" />
+    <ProjectReference Include="Microsoft.Extensions.DependencyInjection" Version = "2.2.0" />
+  </ItemGroup>
+
+</Project>

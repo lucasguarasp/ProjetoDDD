@@ -1,0 +1,9 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoDDD\ProjetoDDD.Domain\bin\Debug\netstandard2.0\ProjetoDDD.Domain.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoDDD\ProjetoDDD.Domain\bin\Debug\netstandard2.0\ProjetoDDD.Domain.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoDDD\ProjetoDDD.Domain\bin\Debug\netstandard2.0\ProjetoDDD.Domain.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoDDD\ProjetoDDD.Domain\obj\Debug\netstandard2.0\ProjetoDDD.Domain.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoDDD\ProjetoDDD.Domain\obj\Debug\netstandard2.0\ProjetoDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoDDD\ProjetoDDD.Domain\obj\Debug\netstandard2.0\ProjetoDDD.Domain.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoDDD\ProjetoDDD.Domain\obj\Debug\netstandard2.0\ProjetoDDD.Domain.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoDDD\ProjetoDDD.Domain\obj\Debug\netstandard2.0\ProjetoDDD.Domain.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoDDD\ProjetoDDD.Domain\obj\Debug\netstandard2.0\ProjetoDDD.Domain.pdb

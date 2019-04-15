@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoDDD\ProjetoDDD.DI\bin\Debug\netstandard2.0\ProjetoDDD.DI.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoDDD\ProjetoDDD.DI\bin\Debug\netstandard2.0\ProjetoDDD.DI.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoDDD\ProjetoDDD.DI\bin\Debug\netstandard2.0\ProjetoDDD.DI.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoDDD\ProjetoDDD.DI\bin\Debug\netstandard2.0\ProjetoDDD.Data.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoDDD\ProjetoDDD.DI\bin\Debug\netstandard2.0\ProjetoDDD.Domain.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoDDD\ProjetoDDD.DI\bin\Debug\netstandard2.0\ProjetoDDD.Domain.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoDDD\ProjetoDDD.DI\bin\Debug\netstandard2.0\ProjetoDDD.Data.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoDDD\ProjetoDDD.DI\obj\Debug\netstandard2.0\ProjetoDDD.DI.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoDDD\ProjetoDDD.DI\obj\Debug\netstandard2.0\ProjetoDDD.DI.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoDDD\ProjetoDDD.DI\obj\Debug\netstandard2.0\ProjetoDDD.DI.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoDDD\ProjetoDDD.DI\obj\Debug\netstandard2.0\ProjetoDDD.DI.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoDDD\ProjetoDDD.DI\obj\Debug\netstandard2.0\ProjetoDDD.DI.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoDDD\ProjetoDDD.DI\obj\Debug\netstandard2.0\ProjetoDDD.DI.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoDDD\ProjetoDDD.DI\obj\Debug\netstandard2.0\ProjetoDDD.DI.pdb
